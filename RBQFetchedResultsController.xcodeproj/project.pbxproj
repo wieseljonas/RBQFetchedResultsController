@@ -344,9 +344,11 @@
 				TargetAttributes = {
 					6361D7331C4051A8005CD430 = {
 						CreatedOnToolsVersion = 7.2;
+						LastSwiftMigration = 0800;
 					};
 					6361D73D1C4051A8005CD430 = {
 						CreatedOnToolsVersion = 7.2;
+						LastSwiftMigration = 0800;
 					};
 					A090E59F1C73B17B0046788B = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -557,6 +559,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Atai.RBQFetchedResultsController;
 				PRODUCT_NAME = RBQFetchedResultsController;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -579,6 +582,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Atai.RBQFetchedResultsController;
 				PRODUCT_NAME = RBQFetchedResultsController;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -593,6 +597,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Atai.RBQFetchedResultsControllerFrameworkTests;
 				PRODUCT_NAME = RBQFetchedResultsController;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -607,6 +612,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Atai.RBQFetchedResultsControllerFrameworkTests;
 				PRODUCT_NAME = RBQFetchedResultsController;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
