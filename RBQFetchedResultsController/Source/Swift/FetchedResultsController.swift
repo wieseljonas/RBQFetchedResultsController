@@ -329,7 +329,7 @@ public class FetchedResultsController<T: Object> {
         
         if let rlmObject: AnyObject = self.rbqFetchedResultsController.objectAtIndexPath(indexPath) {
             
-            return unsafeBitCast(rlmObject, T.self)
+            return unsafeBitCast(rlmObject as! RLMObjectBase, T.self)
         }
         
         return nil
